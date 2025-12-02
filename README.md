@@ -1,6 +1,8 @@
-# 👋 Hola, soy Juan Malaver
+# 👋 Hola, soy Juan Manuel
 
-Desarrollador de software e Ingeniero de Sistemas.  
+Ingeniero de Sistemas y Desarrollador de software.  
 Me gusta crear aplicaciones web y mejorar mis habilidades en React, JavaScript, PHP y Java.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 📧 Contacto: juanmalaver1511@gmail.com
